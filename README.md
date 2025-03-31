@@ -55,15 +55,6 @@ sudo make install
 lightfetch
 ```
 
-## Configuration
-
-Configuration files are stored in `~/.config/lightfetch/`:
-
-- `config.conf` - Main configuration file
-- `ascii/` - Directory containing custom ASCII art
-
-Check the example configuration file for customization options.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -75,4 +66,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Inspired by [neofetch](https://github.com/dylanaraps/neofetch) and other system information tools
-- Thanks to all contributors and testers
