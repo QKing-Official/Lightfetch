@@ -59,10 +59,6 @@ lightfetch
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Inspired by [neofetch](https://github.com/dylanaraps/neofetch) and other system information tools
