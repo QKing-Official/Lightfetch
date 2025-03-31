@@ -6,7 +6,7 @@ A lightweight general systeminformation tool written in C.
 A lightweight system information display utility for Unix-like systems that quickly shows your system's vital statistics in a clean, customizable format.
 
 <p align="center">
-  <img src="screenshot.png" alt="lightfetch screenshot" width="600">
+  <img src="lightfetch.png" alt="lightfetch screenshot" width="600">
 </p>
 
 ## Features
